@@ -1,7 +1,7 @@
 Google App Engine (GAE) Demo
 =============================
 
-Guestbook Java JSP application that demonstrate the use of Google App Engine with two storage options: Cloud Datastorage and the Cloud SQL.
+Guestbook Java JSP application that demonstrate the use of Google App Engine with the Cloud Datastorage.
 
 * Step 0: Intitalizing the projet with Maven.
 * Step 1: Adding application code and UI
